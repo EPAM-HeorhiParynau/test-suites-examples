@@ -7,6 +7,7 @@ public class ExampleSuiteBTests
     [Trait("Suite", "B")]
     public async Task Health_Responds()
     {
+        
         Assert.False(false);
     }
     
